@@ -1,0 +1,27 @@
+[
+    {
+      "status": "Winner",
+      "text":"Financial mobile app",
+      "img": "images/image3.jpg",
+      "time": "2 days ago"
+    },
+    {
+      "status": "Winner",
+      "text":"E-commerce Logo Design",
+      "img": "images/image4.jpg",
+      "time": "3 days ago"
+    },
+    {
+      "status": "Winner",
+      "text":"Tech app",
+      "img": "images/image5.jpg",
+      "time": "12 days ago"
+    },
+    {
+      "status": "Winner",
+      "text":"Fashion App",
+      "img": "images/image6.jpg",
+      "time": "3 days ago"
+    }
+  
+  ]
